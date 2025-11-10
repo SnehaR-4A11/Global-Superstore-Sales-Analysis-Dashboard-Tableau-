@@ -15,6 +15,8 @@
 - create calculated field called Profit Ratio= sum(Profit)/sum(sales)
 - create visuals
 - Add filter, download buttons, KPI cards on Dashboard
+## Dashboard Screenshot
+- <a href="https://github.com/SnehaR-4A11/Global-Superstore-Sales-Analysis-Dashboard-Tableau-/blob/main/Screenshot%202025-11-10%20135414.png">Dashboard</a>
 ## Insights
 - Canada Market have High Profit ratio with moderate sales
 - APAC Market have High Sales but low Profit
